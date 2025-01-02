@@ -1,4 +1,5 @@
-use super::vector as vector;
+use vector as vector;
+
 
 struct AABB
 {
@@ -8,5 +9,5 @@ struct AABB
 
 pub struct Object
 {
-    name : str,
+    //name : str,
 }
